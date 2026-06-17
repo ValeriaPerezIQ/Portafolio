@@ -1,69 +1,99 @@
+
 /* --General -- */
+
 body {
-  
-   background-image: radial-gradient(circle at 0% 0%, #ece5dd 0%, #eedcc5ad 50%, #fee1be 100%);
+
+    background-image: radial-gradient(circle at 0% 0%, #FCFAF8 0%, #fffaf5 50%, #fef8f2 100%);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100vh;
     margin: 0;
-color: #4B403A;
-font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #4B403A;
+   
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+ }
+
+ /* --Titulos y sub-- */
+h1 {
+ font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 50px;
+    font-weight: 500;
 
 }
 
-.navbar{
-    background-color: bisque;
+#letter{
+
+  font-family: "Limelight", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+   font-size: 70px;
+
+
 }
 
-h1{
+h2{
+    font-family: "Marcellus", serif;
+  font-weight: 599;
+  font-style: normal;
 
-    color: rgb(203, 139, 150);
 }
+
+
+
+
 /* --NavBar-- */
 
-
+#barraNavegacion{
+   background-color: antiquewhite;
+   border-radius: 3px;
+}
 
 /*--Header--*/
-.img-fluid{
-  border-radius: 5px;
+.img-fluid {
+    border-radius: 5px;
 }
 
 /*--Sobre mí--*/
-#chemEng{
+#chemEng {
     width: 90%;
     aspect-ratio: 1 / 1;
     object-fit: cover;
     object-position: center;
-    border-radius: 120px; 
+    border-radius: 120px;
 }
 
 /*--Proyectos--*/
-.containerProject{
-    display:flex;
+.containerProject {
+    display: flex;
     justify-content: center;
     align-items: center;
 
 }
+
 .projectsTitle,
 .contactTitle {
     text-align: center;
-    
+
 }
 
 /*--Contacto--*/
 
-.containerContact{
-    display:flex;
-    justify-content:space-around;
-    
+.containerContact {
+    display: flex;
+    justify-content: space-around;
+
 }
 
 /*--Footer--*/
 
-#footer{
-     display:flex;
+#footer {
+    display: flex;
     justify-content: center;
-   background-color: rgb(211, 165, 109);
+    background-color: rgb(211, 165, 109);
 
 }
