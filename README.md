@@ -38,4 +38,4 @@ Contact
 
 Gracias por visitar mi portafolio. Este proyecto representa mi crecimiento como desarrolladora y mi compromiso con el aprendizaje continuo.
 
-                                                                             🌸🧪💻 Engineer • Developer • Creator ✨
+     🌸🧪💻 Engineer • Developer • Creator ✨
