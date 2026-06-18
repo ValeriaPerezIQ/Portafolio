@@ -28,13 +28,13 @@ Jerarquía visual ||
 Accesibilidad ||
 UX/UI ||
 Identidad visual consistente ||
-Tonos cálidos y elegantes ||
+Tonos cálidos y elegantes 
 
-📂 Secciones
-Home
-About Me
-Projects
-Contact
+📂 Secciones:
+Home ||
+About Me ||
+Projects ||
+Contact ||
 
 Gracias por visitar mi portafolio. Este proyecto representa mi crecimiento como desarrolladora y mi compromiso con el aprendizaje continuo.
 
