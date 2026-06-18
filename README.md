@@ -19,16 +19,16 @@ JavaScript
 Git
 GitHub
 
- Diseño
+⚙️ Diseño
 
 Este portafolio fue construido siguiendo principios de:
 
-Diseño responsivo
-Jerarquía visual
-Accesibilidad
-UX/UI
-Identidad visual consistente
-Tonos cálidos y elegantes
+Diseño responsivo ||
+Jerarquía visual ||
+Accesibilidad ||
+UX/UI ||
+Identidad visual consistente ||
+Tonos cálidos y elegantes ||
 
 📂 Secciones
 Home
